@@ -22,7 +22,7 @@ from sklearn.metrics import r2_score
 
 """Reading the .CSV file"""
 
-data = pd.read_csv("IceCreamData.csv")
+data = pd.read_csv("datasets/IceCreamData.csv")
 
 """Descibe the Statistics of Data"""
 
